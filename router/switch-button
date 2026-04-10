@@ -1,2 +1,0 @@
-config main
-    option func 'wds-router-toggle'
